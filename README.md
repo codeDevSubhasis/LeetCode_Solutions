@@ -18,14 +18,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0383-ransom-note) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## String
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0383-ransom-note) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0383-ransom-note) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Matrix
 |  |
 | ------- |
