@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0258-add-digits) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2544-alternating-digit-sum) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0258-add-digits) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Number Theory
 |  |
