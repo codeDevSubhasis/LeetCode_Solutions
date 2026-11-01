@@ -7,7 +7,7 @@ public:
             if(i%2==0){
                 sum+=nums[i];
             }
-            else if(i%2!=0){
+            else{
                 sum-=nums[i];
             }
 
