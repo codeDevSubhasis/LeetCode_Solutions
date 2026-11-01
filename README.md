@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3701-compute-alternating-sum](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3701-compute-alternating-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
 |  |
 | ------- |
