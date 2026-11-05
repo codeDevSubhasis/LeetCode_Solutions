@@ -2,9 +2,9 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
         sort(nums.begin(),nums.end());
-        int count=1;
+        int count=1; // always check the next val so already take as count 1
         int maxcount =INT_MIN;
-        int val;
+        int val; // stores value of most frequency element
         for(int i=1;i<nums.size();i++){
             if(nums[i-1]==nums[i]){
                 count++;
@@ -18,7 +18,7 @@ public:
             }
 
         }
-        maxcount = max(maxcount,count);
+        maxcount = max(maxcount,count); //if last element is same as prev one, then this check this type of case
         if(maxcount==count){
             val=nums[nums.size()-1];
         }
