@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0566-reshape-the-matrix](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [1672-richest-customer-wealth](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [1672-richest-customer-wealth](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0258-add-digits) |
+| [0566-reshape-the-matrix](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3701-compute-alternating-sum) |
