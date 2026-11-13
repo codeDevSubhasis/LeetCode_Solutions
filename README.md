@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0506-relative-ranks](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [1672-richest-customer-wealth](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0506-relative-ranks](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0506-relative-ranks) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
