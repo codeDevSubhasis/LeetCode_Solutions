@@ -10,20 +10,22 @@ public:
         reverse(copy.begin(),copy.end());
 
         vector<string>ans;
-        string temp;
+        
         for(int i=0;i<score.size();i++){
             for(int j=0;j<copy.size();j++){
-                if(score[i] == copy[j] && j==0){
+                if(score[i] == copy[j]){
+                    if(j==0){
                     ans.push_back("Gold Medal");
-                }
-                else if(score[i] == copy[j] && j==1){
-                    ans.push_back("Silver Medal");
-                }
-                else if(score[i] == copy[j] && j==2){
-                    ans.push_back("Bronze Medal");
-                }
-                else if(score[i] == copy[j]){
-                    ans.push_back(to_string(j+1));
+                    }
+                    else if( j==1){
+                        ans.push_back("Silver Medal");
+                    }
+                    else if(j==2){
+                        ans.push_back("Bronze Medal");
+                    }
+                    else{
+                        ans.push_back(to_string(j+1));
+                    }
                 }
             }
         }
