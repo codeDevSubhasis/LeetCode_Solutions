@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [1672-richest-customer-wealth](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0383-ransom-note) |
+| [1748-sum-of-unique-elements](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## String
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0383-ransom-note) |
+| [1748-sum-of-unique-elements](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Matrix
 |  |
