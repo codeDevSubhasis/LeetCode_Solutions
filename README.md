@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [1672-richest-customer-wealth](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0506-relative-ranks) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0383-ransom-note) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
