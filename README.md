@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3701-compute-alternating-sum](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3701-compute-alternating-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2544-alternating-digit-sum) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
