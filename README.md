@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0506-relative-ranks) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0520-detect-capital) |
