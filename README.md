@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Matrix
 |  |
