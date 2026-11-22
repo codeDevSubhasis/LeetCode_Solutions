@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0520-detect-capital) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3019-number-of-changing-keys](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3019-number-of-changing-keys) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
