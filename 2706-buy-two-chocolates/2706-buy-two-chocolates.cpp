@@ -6,13 +6,8 @@ public:
 
         for(int i =0; i<n-1; i++) {
             int val = prices[i] + prices[i+1];
-            if(val == money){
-                return 0;
-            }
-            else if(val < money){
-                money = money - val;
-                break;
-
+            if(val <= money){
+                return money - val;
             }
             else {
                 break;
