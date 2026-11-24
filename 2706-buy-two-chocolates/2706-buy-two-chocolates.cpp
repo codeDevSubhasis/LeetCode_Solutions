@@ -14,7 +14,7 @@ public:
                 break;
 
             }
-            else if(val > money) {
+            else {
                 break;
             }
 
