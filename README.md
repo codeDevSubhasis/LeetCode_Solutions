@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2706-buy-two-chocolates](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3701-compute-alternating-sum](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3701-compute-alternating-sum) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0506-relative-ranks) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2706-buy-two-chocolates](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
