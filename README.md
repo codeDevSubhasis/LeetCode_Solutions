@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3019-number-of-changing-keys](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3019-number-of-changing-keys) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3794-reverse-string-prefix](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Counting
 |  |
 | ------- |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2706-buy-two-chocolates](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2706-buy-two-chocolates) |
+## Two Pointers
+|  |
+| ------- |
+| [3794-reverse-string-prefix](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
