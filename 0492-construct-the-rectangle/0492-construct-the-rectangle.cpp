@@ -8,7 +8,7 @@ public:
         int fdiff = INT_MAX;
         int currdiff =0;
         vector<int>ans;
-        while(currwid <= area){
+        while(currwid <= sqrt(area)){
             if(area % currwid == 0){
                 currlen = area / currwid;
                 currdiff = currlen - currwid;
