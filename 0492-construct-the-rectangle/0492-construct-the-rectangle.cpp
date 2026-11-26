@@ -1,12 +1,12 @@
 class Solution {
 public:
     vector<int> constructRectangle(int area) {
-        long long flen = 0;
-        long long currlen = 0;
-        long long fwid = 0;
-        long long currwid = 1;
-        long long fdiff = INT_MAX;
-        long long currdiff =0;
+        int flen = 0;
+        int currlen = 0;
+        int fwid = 0;
+        int currwid = 1;
+        int fdiff = INT_MAX;
+        int currdiff =0;
         vector<int>ans;
         while(currwid <= area){
             if(area % currwid == 0){
