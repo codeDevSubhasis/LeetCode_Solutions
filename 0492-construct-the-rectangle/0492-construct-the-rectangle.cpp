@@ -12,9 +12,10 @@ public:
             if(area % currwid == 0){
                 currlen = area / currwid;
                 currdiff = currlen - currwid;
-                if(currlen <= fdiff && currlen >= currwid){
+                if(currdiff <= fdiff && currlen >= currwid){
                     fwid = currwid;
                     flen = currlen;
+                    fdiff = currdiff; 
                 }
             }
             currwid++;
