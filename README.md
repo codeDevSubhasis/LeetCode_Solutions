@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3019-number-of-changing-keys](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3019-number-of-changing-keys) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3794-reverse-string-prefix](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Counting
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
