@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/0520-detect-capital) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/codeDevSubhasis/LeetCode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
