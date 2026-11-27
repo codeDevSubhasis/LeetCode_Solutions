@@ -12,7 +12,8 @@ public:
                 ans1 = ch + ans1;
             }
             else if(l <= 9){
-                ans1 = to_string(l) + ans1;
+                char ch = l+'0';
+                ans1 = ch + ans1;
             }
             n2 = n2/16;
 
@@ -24,7 +25,8 @@ public:
                 ans2 = ch + ans2;
             }
             else if(l<=9){
-                ans2 = to_string(l) + ans2;
+                char ch = l+'0';
+                ans2 = ch + ans2;
             }
             n3=n3/36;
 
